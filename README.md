@@ -1,2 +1,2 @@
-# accra
-Tourist Attractions in Accra
+# Tourist Attractions in Accra
+
